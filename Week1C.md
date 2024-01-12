@@ -22,25 +22,25 @@ An unpredictable event that is beyond what is normally expected of a situation a
 - AB testing
 - Feature Testing
 
-  ### 4 data analysis Types
-  - What Happened? (Descriptive Analysis)
-  - Why Did it Happen? (Diagnostic Analysis)
-  - When Will it Happen? (Predictive Analysis)
-  - How Can We Make It Happen? (Prescriptive Analysis)
- 
-  ## Data Ecosystem
-  All the types of data throughout the world and how they relate/effect eachother
+### 4 data analysis Types
+- What Happened? (Descriptive Analysis)
+- Why Did it Happen? (Diagnostic Analysis)
+- When Will it Happen? (Predictive Analysis)
+- How Can We Make It Happen? (Prescriptive Analysis)
 
-  Stakeholders - Everyone who has to use data in any way.
+## Data Ecosystem
+All the types of data throughout the world and how they relate/effect eachother
 
-  3 Main Roles in a data team:
-  - Data Analyst
-  - Data Scientist
-  - Data Engineer
- 
-    Organized data comes from internal and external data sets.
-    Internal - like blizzards game statistics
-    Extrenal - forums, polls, etc
+Stakeholders - Everyone who has to use data in any way.
 
-    # Stages of data gathering
-    - Research and design
+3 Main Roles in a data team:
+- Data Analyst
+- Data Scientist
+- Data Engineer
+
+  Organized data comes from internal and external data sets.
+  Internal - like blizzards game statistics
+  Extrenal - forums, polls, etc
+
+  # Stages of data gathering
+  - Research and design
